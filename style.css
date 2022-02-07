@@ -1,0 +1,120 @@
+body{
+    margin: 0%;
+    float: left;;
+}
+h1{
+    font-size: 100px;
+}
+h2{
+    font-size: 80px;
+}
+h3{
+    font-size: 50px;
+}
+h4{
+    font-size: 40px;
+    color: grey;
+    font-style: italic;
+}
+p{
+    font-size: 40px;
+    font-style: italic;
+    color: brown;
+}
+.text-color{
+    color:red;
+    font-size: 110px;
+}
+.top-banner{
+    background-image: url(image/header-bg.png);
+    background-repeat: no-repeat;
+    float: left;
+    padding: 5%;
+    width: 100%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+}
+section{
+    margin-bottom: 5%;
+    width: 100%;
+}
+.half-width img{
+    width: 100%;
+}
+.link1{
+    text-decoration: none;
+    background-color: red;
+    border-radius: 5%;
+    padding: 20px 30px;
+    color: white;
+    font-size: 30px;
+    font-weight: 800;
+}
+.link2{
+    text-decoration: none;
+    background-color:deeppink;
+    border-radius: 7px;
+    padding: 20px 30px;
+    color: white;
+    font-size: 30px;
+    font-weight: 900;
+}
+.middle{
+    float: left;
+    padding: 5%;
+    width: 100%;
+    background-image: url(image/biography-bg.png);
+}
+.extra{
+    padding: 10%;
+}
+.third{
+    width: 100%;
+    padding: 5%;
+    float: left;
+    background-image: url(image/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.fahim{
+    padding: 2%;
+    height: 80%;
+}
+.one{
+    padding: 1%;
+}
+.two{
+    padding: 1%;
+}
+.three{
+    padding: 1%;
+}
+.jannat{
+    text-align: center;
+    font-size: 50px;
+}
+.tamim{
+    text-align: center;
+}
+button{
+    background-color: fuchsia;
+    border-radius: 20px;
+    padding: 10px 15px;
+    border-color: white;
+}
+.last{
+    float: left;
+    background-image: url(image/footer-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 5%;
+}
+footer{
+    font-size: 50px;
+    text-align:right;
+    color: darkblue;
+    font-style: italic;
+    font-weight: 900;
+}
